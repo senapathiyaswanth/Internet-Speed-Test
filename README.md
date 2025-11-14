@@ -43,6 +43,27 @@ The UI contains:
 All components use modern fonts and spacing for a clean layout.
 
 
+## ✨ Features
+
+- 🌙 **Dark Mode UI** powered by CustomTkinter  
+- 🚀 **Accurate Internet Speed Testing** (download, upload, ping)  
+- 📡 **Fetches best server + ISP name automatically**  
+- 🔄 **Threaded speed test** to avoid UI freezing  
+- 🖼️ **Supports custom icons & images**  
+- 👨‍💻 **Designed & Developed by Yaswanth**
+
+
+## 🛠️ Tech Stack
+
+| Technology               | Purpose                                |
+|-------------------------|------------------------------------------|
+| **Python**              | Core Programming Language                |
+| **CustomTkinter**       | GUI Framework with modern dark theme     |
+| **speedtest-cli**       | Internet speed measurement               |
+| **Pillow (PIL)**        | Image loading & rendering                |
+| **Threading**           | Run speed tests without blocking UI      |
+
+
 ## ⚙️ How the Speed Test Works (Code Explanation)
 
 ### 🔹 Step 1 — Button Press  
@@ -72,6 +93,13 @@ After completing the measurements:
 - The "Testing..." label turns green → **"Test Completed!"**
 - The button becomes active again
 - All speed values remain visible
+
+📂 Internet-Speed-Test
+ ├── main.py
+ ├── 📂 assets
+ │    ├── speed_logo.png
+ │    └── n.ico    
+ └── README.md
 
 
 ## 🧱 Code Structure
