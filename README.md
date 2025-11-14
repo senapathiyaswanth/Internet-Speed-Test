@@ -95,10 +95,14 @@ After completing the measurements:
 - All speed values remain visible
 
 📂 Internet-Speed-Test
+
  ├── main.py
+ 
  ├── 📂 assets
  │    ├── speed_logo.png
- │    └── n.ico    
+ 
+ │    └── n.ico 
+ 
  └── README.md
 
 
