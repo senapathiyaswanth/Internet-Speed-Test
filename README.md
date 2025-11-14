@@ -99,9 +99,10 @@ After completing the measurements:
  ├── main.py
  
  ├── 📂 assets
- │    ├── speed_logo.png
  
- │    └── n.ico 
+ │       ├── speed_logo.png
+ 
+ │       └── n.ico 
  
  └── README.md
 
