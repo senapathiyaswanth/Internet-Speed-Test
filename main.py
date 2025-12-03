@@ -81,3 +81,4 @@ footer_label = ctk.CTkLabel(app, text="Developed by Yaswanth", font=("Arial", 12
 footer_label.pack(pady=10)
 
 app.mainloop()
+# End
